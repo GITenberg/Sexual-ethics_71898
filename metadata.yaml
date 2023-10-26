@@ -1,0 +1,45 @@
+_repo: Sexual-ethics_71898
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Saleeby, Caleb W.
+    gutenberg_agent_id: '56450'
+    url: http://www.gutenberg.org/2009/agents/56450
+  translator:
+    agent_name: Dukes, Ashley
+    birthdate: 1885
+    deathdate: 1959
+    gutenberg_agent_id: '49976'
+    url: http://www.gutenberg.org/2009/agents/49976
+    wikipedia: https://en.wikipedia.org/wiki/Ashley_Dukes
+creator:
+  author:
+    agent_name: Forel, Auguste
+    aliases:
+    - Forel, August
+    - Forel, Auguste Henri
+    - Forel, A. (Auguste)
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '34240'
+    url: http://www.gutenberg.org/2009/agents/34240
+description: ''
+gutenberg_issued: '2023-10-18'
+identifiers:
+  gutenberg: '71898'
+language: en
+pgterms:marc904: https://archive.org/details/b28129398/page/n5/mode/2up
+pgterms:marc905: 20201112091229forel
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Produced by Tim Lindell, Donald Cummings, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bThe New Age Press, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sexual ethics
+url: http://www.gutenberg.org/ebooks/71898
