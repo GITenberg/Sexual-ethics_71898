@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '49976'
     url: http://www.gutenberg.org/2009/agents/49976
     wikipedia: https://en.wikipedia.org/wiki/Ashley_Dukes
+covers:
+- cover_type: archival
+  image_path: 71898-h/images/cover.jpg
 creator:
   author:
     agent_name: Forel, Auguste
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '34240'
     url: http://www.gutenberg.org/2009/agents/34240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71898#Sexual-ethics
 gutenberg_issued: '2023-10-18'
 identifiers:
   gutenberg: '71898'
